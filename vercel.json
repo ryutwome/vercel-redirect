@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "https://jubilant-assistant-440134.framer.app/:path*",
+      "permanent": true
+    }
+  ]
+}
