@@ -1,8 +1,13 @@
 {
   "redirects": [
     {
-      "source": "/",
+      "source": "/p1",
       "destination": "https://bazzite.dab-mimosa.ts.net",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "destination": "https://jubilant-assistant-440134.framer.app",
       "permanent": true
     }
   ]
