@@ -6,6 +6,11 @@
       "permanent": true
     },
     {
+      "source": "/ryutwome",
+      "destination": "https://ryutwome.github.io",
+      "permanent": true
+    },
+    {
       "source": "/",
       "destination": "https://www.behance.net/rhuturajmirashi",
       "permanent": true
