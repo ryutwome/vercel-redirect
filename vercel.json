@@ -11,8 +11,13 @@
       "permanent": true
     },
     {
-      "source": "/",
+      "source": "/portfolio",
       "destination": "https://drive.google.com/drive/folders/1QfGEtdgToHYlWqMhPfhljB-BaRcSlG8O?usp=sharing",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "destination": "https://rhuturaj-mirashi.super.site/",
       "permanent": true
     }
   ]
