@@ -17,7 +17,8 @@
     },
     {
       "source": "/",
-      "destination": "https://www.behance.net/rhuturajmirashi",
+//      "destination": "https://www.behance.net/rhuturajmirashi",
+      "destination": "https://rhuturaj-mirashi.super.site/", 
       "permanent": true
     }
   ]
