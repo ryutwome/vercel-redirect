@@ -16,6 +16,11 @@
       "permanent": true
     },
     {
+      "source": "/browserstack",
+      "destination": "https://drive.google.com/drive/folders/1JOVuxtWmWJUMskmYPzRGXdV0c9ebqL2G?usp=sharing",
+      "permanent": true
+    },
+    {
       "source": "/",
       "destination": "https://www.behance.net/rhuturajmirashi", 
       "permanent": true
